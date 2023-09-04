@@ -5,7 +5,6 @@
  📫 How to reach me: contact@patryknamyslak.pl
 
  🧑🏻 A bit more about me:
- 🔺I am always keen on trying to make my new projects quite heavy reliant on AI
 as nowadays its hard to just remember it all.
  🔺All of my websites were built by hand and that hand belongs to me 😀.
 
