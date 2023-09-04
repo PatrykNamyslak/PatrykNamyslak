@@ -8,7 +8,10 @@
  
 
 💼 I'm Currently a Executive Director at Aver Media Group, Aver Technologies and Aver Digital.
- 📫 How to reach me: contact@patryknamyslak.pl
+ 
+
+📫 How to reach me: contact@patryknamyslak.pl
+
 
  🧑🏻 A bit more about me:
 as nowadays its hard to just remember it all.
