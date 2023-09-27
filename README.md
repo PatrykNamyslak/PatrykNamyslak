@@ -12,9 +12,6 @@
 
 📫 How to reach me: contact@patryknamyslak.pl
 
-
- 🧑🏻 A bit more about me:
-as nowadays its hard to just remember it all.
  
 
 🔺All of my websites were built by hand and that hand belongs to me 😀.
