@@ -1,22 +1,18 @@
  👋 Hi, I’m @PatrykNamyslak
  
 
-👀 I’m interested in Fullstack Web Development
- 
+🌱 | Intro:
 
-🌱 I’m currently learning Javascript
- 
+I have been in the field of software development, programming and web design for nearly two years, Within those past two years I've created a few websites as side projects but my main project has been my company website ( https://aver.digital/ ) you can see all of my built websites here https://patryknamyslak.pl/portfolio .
 
-💼 I'm Currently a Executive Director at Aver Media Group, Aver Technologies and Aver Digital.
- 
+🧠 | My Mindset:
 
-📫 How to reach me: contact@patryknamyslak.pl
+I am keen on learning more as I proceed further down this route, I am open to constructive criticism on my work, I actually advocate for people to criticize my work, because I know it can't be flawless. Currently I am a semi-beginner/intermediate level in Web design, beginner in Database management, Knowledgeable on running and maintaining a healthy web server via both the front end and the back end, and semi-decent using python.
 
- 
+💻 | Work Ethic
 
-🔺All of my websites were built by hand and that hand belongs to me 😀.
+ I am a critical thinker, I break things down in my head before taking anything on, I sometimes don't always plan, I just kind of go ahead and want to get my hands dirty and get into the hard rooted coding, designing or just even creating. I like to believe I have a wild imagination when it comes to web design, which is good in my opinion, which a lot of employers would agree on but there are some that don't, so I want to make that clear, that I like to do things my way but the right way, a lot of the time whenever I'm given steps on how to do something I improve the steps and make the final product better than intended, which is just what I'm used to and that's how I work, I don't think too much or dwell on it if you'd like, I just do it. 
 
-<!---
-PatrykNamyslak/PatrykNamyslak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+🗣️ | Conclusion
+Now that was just a little bit about me, I hope it's not overwhelming, as I am just a six-teen year old who is keen on learning more about the industry and wants to build relationships to then greater my connections for the future.
