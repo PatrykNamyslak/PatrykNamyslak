@@ -1,7 +1,4 @@
-<style>
-a{
-color:red;
-}
+
 </style>
 
 # ⚠️ | DISCLAIMER
