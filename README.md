@@ -1,3 +1,7 @@
+<head>
+<link rel="stylesheet" href="Https://patryknamyslak.pl/assets/github/css/style.css">
+</head>
+
 # ⚠️ | DISCLAIMER
 This document is subject to change so for the latest version please direct yourself to this  <a href="Https://patryknamyslak.pl/about/">page</a>
 
