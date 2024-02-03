@@ -2,7 +2,7 @@
 a{
 color:red;
 }
-</style
+</style>
 
 # ⚠️ | DISCLAIMER
 This document is subject to change so for the latest version please direct yourself to this page <a href="Https://patryknamyslak.pl/about/">here</a>
