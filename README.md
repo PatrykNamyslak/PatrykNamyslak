@@ -1,5 +1,5 @@
 # ⚠️ | DISCLAIMER
-This document is subject to change so for the latest version please direct yourself to this page <a href="Https://patryknamyslak.pl/about/">here</a>
+This document is subject to change so for the latest version please direct yourself to this  <a href="Https://patryknamyslak.pl/about/">page</a>
 
 # 📋 | Summary
 👋 Hi, I’m Patryk Namyslak, I am a front end web developer, I work with HTML, CSS AND JavaScript. If you want to know more about me keep on reading.
