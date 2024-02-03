@@ -1,5 +1,5 @@
 <head>
-<link rel="stylesheet" href="Https://patryknamyslak.pl/assets/github/css/style.css">
+<link rel="stylesheet" href="https://patryknamyslak.pl/assets/github/css/style.css">
 </head>
 
 # ⚠️ | DISCLAIMER
