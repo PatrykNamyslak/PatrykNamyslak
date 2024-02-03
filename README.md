@@ -7,7 +7,7 @@ This document is subject to change so for the latest version please direct yours
 
 # 📋 | Summary
 👋 Hi, I’m Patryk Namyslak, I am a front end web developer, I work with HTML, CSS AND JavaScript. If you want to know more about me keep on reading.
- 
+---
 
 # 🌱 | Intro:
 
