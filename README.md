@@ -7,7 +7,7 @@ This document is subject to change so for the latest version please direct yours
 
 # 🌱 | Intro:
 
-I have been in the field of software development, programming and web design for nearly two years, Within those years I've created a few websites as side projects but my main projects have been my personal website & my company website ( https://patryknamyslak.pl https://aver.digital/ ) you can see all of my websites I've built here https://patryknamyslak.pl/portfolio .
+I have been in the field of software development, programming and web design for nearly two years, Within those years I've created a few websites as side projects but my main projects have been my <a href="https://patryknamyslak.pl">personal website</a> & <a href="https://aver.digital">my company website</a>, you can see all of my websites I've built in <a href="https://patryknamyslak.pl/portfolio">My Portfolio</a> .
 
 # 🧠 | My Mindset:
 
