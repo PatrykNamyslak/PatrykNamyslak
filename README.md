@@ -1,5 +1,12 @@
 <head>
 <link rel="stylesheet" href="https://patryknamyslak.pl/assets/github/css/style.css">
+
+<style>
+  img{
+    width:40px;
+    height:40px;
+  }
+</style>
 </head>
 
 
