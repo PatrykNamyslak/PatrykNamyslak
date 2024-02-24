@@ -1,12 +1,5 @@
 <head>
 <link rel="stylesheet" href="https://patryknamyslak.pl/assets/github/css/style.css">
-
-<style>
-  img{
-    width:40px;
-    height:40px;
-  }
-</style>
 </head>
 
 
@@ -14,16 +7,16 @@
 <p>Heres All Of the programming languages i can code in:</p>
 
 ### Javascript
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width:40px; height:40px;">
 
 ### HTML
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width:40px; height:40px;">
 
 ### CSS
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="width:40px; height:40px;">
 
 ### Python
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width:40px; height:40px;">
 
 # ⚠️ | DISCLAIMER
 
