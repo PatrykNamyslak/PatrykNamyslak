@@ -5,6 +5,7 @@
 <div id="skills" style="display:flex;">
   
 # Skills
+
 <p>Heres All Of the programming languages i can code in:</p>
 
 ### Javascript
@@ -20,6 +21,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width:40px; height:40px;">
 
 </div>
+
 # ⚠️ | DISCLAIMER
 
 <p>This document is subject to change so for the latest version please direct yourself to this  <a href="Https://patryknamyslak.pl/about/">page</a>
