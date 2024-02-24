@@ -2,6 +2,22 @@
 <link rel="stylesheet" href="https://patryknamyslak.pl/assets/github/css/style.css">
 </head>
 
+
+# Skills
+<p>Heres All Of the programming languages i can code in:</p>
+
+### Javascript
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+
+### HTML
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+### CSS
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+### Python
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+
 # ⚠️ | DISCLAIMER
 
 <p>This document is subject to change so for the latest version please direct yourself to this  <a href="Https://patryknamyslak.pl/about/">page</a>
