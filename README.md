@@ -1,3 +1,3 @@
 <details>
-  <summary></summary>
+  <summary>Projects</summary>
 </details>
