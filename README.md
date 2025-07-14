@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a [social media platform](https://frontend-foundry.patryknamyslak.pl/).<br>👯 I’m looking to collaborate on Any new PHP Project.<br>🤝 I’m looking for new connections in the Web Development industry<br>🌱 I’m currently learning PHP and expanding my knowledge of frontend Development
+🔭 I’m currently working on a [social media platform](https://frontend-foundry.patryknamyslak.pl/).<br>👯 I’m looking to collaborate on Any new PHP Project.<br>🤝 I’m looking for new connections in the Web Development industry<br>🌱 I’m currently expanding my knowledge in PHP and Full stack Web development
 
 
 ## 🌐 Socials:
