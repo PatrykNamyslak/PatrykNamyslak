@@ -1,6 +1,8 @@
 # 💻 Tech Stack:
 <p style="text-align:center;">
+<div>
 <img src="https://skillicons.dev/icons?i=vscode,ubuntu,linux,laravel,php,vite,cloudflare,tailwindcss,python,js,html,css,bash,apple&perline=4" />
+</div>
 </p>
 
 ## 🌐 Socials:
