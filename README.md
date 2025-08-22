@@ -1,5 +1,5 @@
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=vscode,ubuntu,linux,laravel,php,vite,cloudflare,tailwindcss,python,js,html,css,bash,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,ubuntu,linux,laravel,php,vite,cloudflare,tailwindcss,python,js,html,css,bash,apple&perline=4)](https://skillicons.dev)
 
 
 ## 🌐 Socials:
