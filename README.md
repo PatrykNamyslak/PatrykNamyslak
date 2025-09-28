@@ -1,6 +1,6 @@
 # 💻 Tech Stack:
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,ubuntu,linux,sentry,postman,sqlite,mysql,laravel,php,vite,cloudflare,tailwindcss,python,js,html,css,bash,apple&perline=6" />
+<img src="https://skillicons.dev/icons?i=ubuntu,linux,sentry,postman,sqlite,mysql,laravel,php,vite,cloudflare,tailwindcss,python,js,html,css,bash,apple&perline=6" />
 </p>
 
 ## 🌐 Socials:
