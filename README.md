@@ -11,7 +11,7 @@ final class PatrykNamyslak{
     public static array $projects = ["Frontend Foundry", "Flag API", "Url Shortener"];
 
     public static function greeting(){
-        echo "Hi there! I my name is " . self::$name . " and I am a " . self::$role;
+        echo "Hi there! My name is " . self::$name . " and I am a " . self::$role;
     }
 }
 
