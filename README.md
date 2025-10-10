@@ -1,11 +1,19 @@
-# 💻 Tech Stack:
-<p align="center">
-<img src="https://skillicons.dev/icons?i=ubuntu,linux,sentry,postman,sqlite,mysql,laravel,php,vite,cloudflare,tailwindcss,python,js,html,css,bash,apple&perline=6" />
-</p>
+```PHP
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/patryk-namyslak) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/PatrykNamyslak) 
+final class PatrykNamyslak{
+    public static string $name = "Patryk Namyslak";
+    public static string $role = "Full stack Web Developer";
+    public static array $stack = [
+        "Base for all" => ["Linux", "Apache", "MySQL", "PHP"],
+        "Simple Websites" => ["HTML", "CSS", "HTMX"],
+        "Full stack Apps" => ["Laravel", "Livewire", "Vite"],
+        ];
+    public static array $projects = ["Frontend Foundry", "Flag API", "Url Shortener"];
 
+    public static function greeting(){
+        echo "Hi there! I my name is " . self::$name . " and I am a " . self::$role;
+    }
+}
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PatrykNamyslak&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
+PatrykNamyslak::greeting();
+```
