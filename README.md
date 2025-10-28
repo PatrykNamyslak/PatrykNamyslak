@@ -7,7 +7,7 @@ abstract class PatrykNamyslak{
         "Frontend" => ["Laravel", "Blade", "TailwindCSS", "Livewire", "Vite", "HTML", "CSS", "HTMX"],
         "Backend" => ["Linux", "Apache", "MySQL", "PHP"],
         ];
-    public static array $projects = ["Frontend Foundry", "Flag API", "Url Shortener"];
+    public static array $projects = ["Frontend Foundry", "Flag API", "Url Shortener", "File hosting Service", "Image sharing Service"];
 
     public static function greeting(){
         echo "Hi there! My name is " . self::$name . " and I am a " . self::$role;
