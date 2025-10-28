@@ -4,7 +4,7 @@ final class PatrykNamyslak{
     public static string $name = "Patryk Namyslak";
     public static string $role = "Full-stack Web Developer";
     public static array $stack = [
-        "Frontend" => ["Laravel", "Blade", "Tailwind", "Livewire", "Vite", "HTML", "CSS", "HTMX"],
+        "Frontend" => ["Laravel", "Blade", "TailwindCSS", "Livewire", "Vite", "HTML", "CSS", "HTMX"],
         "Backend" => ["Linux", "Apache", "MySQL", "PHP"],
         ];
     public static array $projects = ["Frontend Foundry", "Flag API", "Url Shortener"];
