@@ -23,3 +23,6 @@ worker@patryknamyslak.pl~$ php Patryk.class.php
 ```
 # Projects
 <a href="https://frontendfoundry.dev">Frontend Foundry</a>
+<a href="https://patgur.space">Image hosting service - Imagur Clone</a>
+<a href="https://patb.in">File hosting service - Filebin Clone</a>
+
