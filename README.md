@@ -2,7 +2,7 @@
 
 final class PatrykNamyslak{
     public static string $name = "Patryk Namyslak";
-    public static string $role = "Full stack Web Developer";
+    public static string $role = "Full-stack Web Developer";
     public static array $stack = [
         "Frontend" => ["Laravel", "Blade", "Tailwind", "Livewire", "Vite", "HTML", "CSS", "HTMX"],
         "Backend" => ["Linux", "Apache", "MySQL", "PHP"],
@@ -19,5 +19,5 @@ PatrykNamyslak::greeting();
 
 ```
 worker@patryknamyslak.pl~$ php Patryk.class.php
-> Hi there! My name is Patryk Namyslak and I am a Full-stack web developer
+> Hi there! My name is Patryk Namyslak and I am a Full-stack Web Developer
 ```
