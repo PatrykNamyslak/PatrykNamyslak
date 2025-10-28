@@ -16,3 +16,7 @@ final class PatrykNamyslak{
 
 PatrykNamyslak::greeting();
 ```
+
+```
+visitor@patryk.dev $ Hi there! My name is Patryk Namyslak and I am a Full-stack web developer
+```
