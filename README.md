@@ -18,6 +18,6 @@ PatrykNamyslak::greeting();
 ```
 
 ```
-visitor@patryk.dev~$ php Patryk.class.php
-` Hi there! My name is Patryk Namyslak and I am a Full-stack web developer `
+worker@patryk.dev~$ php Patryk.class.php
+{Hi there! My name is Patryk Namyslak and I am a Full-stack web developer}
 ```
