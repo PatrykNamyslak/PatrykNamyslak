@@ -1,6 +1,6 @@
 ```PHP
 
-final class PatrykNamyslak{
+astract class PatrykNamyslak{
     public static string $name = "Patryk Namyslak";
     public static string $role = "Full-stack Web Developer";
     public static array $stack = [
