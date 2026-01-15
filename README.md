@@ -2,13 +2,36 @@
 
 abstract class PatrykNamyslak{
     public static string $name = "Patryk Namyslak";
-    public static string $role = "Full-stack Web Developer";
+    public static string $role = "PHP Web Developer";
     public static array $stack = [
-        "Frontend" => ["Blade", "TailwindCSS", "Livewire", "Vite", "HTML", "CSS", "HTMX"],
-        "Backend" => ["PHP", "Laravel", "Redis"],
-        "Server" => ["Linux", "Apache", "MySQL"],
+        "Frontend" => [
+            "Blade", 
+            "TailwindCSS", 
+            "Livewire", 
+            "Vite", 
+            "HTML", 
+            "CSS", 
+            "HTMX"
+            ],
+        "Backend" => [
+            "PHP", 
+            "Laravel", 
+            "Redis"
+            ],
+        "Server" => [
+            "Linux", 
+            "Apache", 
+            "MySQL"
+            ],
         ];
-    public static array $projects = ["Resume Builder", "Form Builder", "Frontend Foundry", "Flag API", "Url Shortener", "Database Communication Interface"];
+    public static array $projects = [
+        "Resume Builder", 
+        "Form Builder", 
+        "Frontend Foundry", 
+        "Flag API", 
+        "Url Shortener", 
+        "Database Communication Interface"
+        ];
 
     public static function greeting(){
         echo "Hi there! My name is " . self::$name . " and I am a " . self::$role;
