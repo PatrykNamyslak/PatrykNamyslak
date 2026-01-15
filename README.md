@@ -1,5 +1,4 @@
 ```PHP
-// TODO: MAKE THE LINKS CLICKABLE
 abstract class PatrykNamyslak{
     public static string $name = "Patryk Namyslak";
     public static string $role = "PHP Web Developer";
