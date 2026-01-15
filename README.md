@@ -4,8 +4,8 @@ abstract class PatrykNamyslak{
     public static string $name = "Patryk Namyslak";
     public static string $role = "Full-stack Web Developer";
     public static array $stack = [
-        "Frontend" => ["Laravel", "Blade", "TailwindCSS", "Livewire", "Vite", "HTML", "CSS", "HTMX"],
-        "Backend" => ["PHP"],
+        "Frontend" => ["Blade", "TailwindCSS", "Livewire", "Vite", "HTML", "CSS", "HTMX"],
+        "Backend" => ["PHP", "Laravel"],
         "Server" => ["Linux", "Apache", "MySQL", "Redis"],
         ];
     public static array $projects = ["Resume Builder", "Form Builder", "Frontend Foundry", "Flag API", "Url Shortener"];
