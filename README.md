@@ -1,3 +1,8 @@
+```
+worker@patryknamyslak.pl~$ php Patryk.class.php
+> Hi there! My name is Patryk Namyslak and I am a Full-stack Web Developer
+```
+
 ```PHP
 // TODO: MAKE THE LINKS CLICKABLE
 abstract class PatrykNamyslak{
@@ -47,11 +52,6 @@ abstract class PatrykNamyslak{
 }
 
 PatrykNamyslak::greeting();
-```
-
-```
-worker@patryknamyslak.pl~$ php Patryk.class.php
-> Hi there! My name is Patryk Namyslak and I am a Full-stack Web Developer
 ```
 
 # Projects (With Clickable links)
