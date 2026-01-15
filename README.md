@@ -8,7 +8,7 @@ abstract class PatrykNamyslak{
         "Backend" => ["PHP", "Laravel", "Redis"],
         "Server" => ["Linux", "Apache", "MySQL"],
         ];
-    public static array $projects = ["Resume Builder", "Form Builder", "Frontend Foundry", "Flag API", "Url Shortener"];
+    public static array $projects = ["Resume Builder", "Form Builder", "Frontend Foundry", "Flag API", "Url Shortener", "Database Communication Interface"];
 
     public static function greeting(){
         echo "Hi there! My name is " . self::$name . " and I am a " . self::$role;
