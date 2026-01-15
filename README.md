@@ -27,7 +27,7 @@ abstract class PatrykNamyslak{
     public static array $projects = [
         "Resume Builder" => "https://patl.ink/resume-builder", # TBA
         "Form Builder" => "https://patl.ink/form-builder",
-        "Authentication Facade" => "https://patl.ink/php-auth"
+        "Authentication Facade" => "https://patl.ink/php-auth",
         "Frontend Foundry" => "https://patl.ink/frontend-foundry",
         "Database Communication Interface" => "https://patl.ink/patbase",
         "Flag API" => [
