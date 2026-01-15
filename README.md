@@ -55,12 +55,20 @@ worker@patryknamyslak.pl~$ php Patryk.class.php
 ```
 
 # Projects (With Clickable links)
-[Resume Builder](https://patl.ink/resume-builder) <br>
-[Form Builder](https://patl.ink/form-builder) <br>
-[Authentication Facade](https://patl.ink/php-auth) <br>
-[Frontend Foundry](https://patl.ink/frontend-foundry) <br>
-[Database Communication Interface](https://patl.ink/patbase) <br>
-[Flag API: Demo](https://patl.ink/flag-api-demo) <br>
-[Flag API: Source Code](https://patl.ink/flag-api) <br>
-[Url Shortener: Demo](https://patl.ink) <br>
-[Url Shortener: Source Code](https://patl.ink/repo) <br>
+<a href="https://patl.ink/resume-builder" target="_blank" rel="noopener noreferrer">Resume Builder</a><br>
+
+<a href="https://patl.ink/form-builder" target="_blank" rel="noopener noreferrer">Form Builder</a><br>
+
+<a href="https://patl.ink/php-auth" target="_blank" rel="noopener noreferrer">Authentication Facade</a><br>
+
+<a href="https://patl.ink/frontend-foundry" target="_blank" rel="noopener noreferrer">Frontend Foundry</a><br>
+
+<a href="https://patl.ink/patbase" target="_blank" rel="noopener noreferrer">Database Communication Interface</a><br>
+
+<a href="https://patl.ink/flag-api-demo" target="_blank" rel="noopener noreferrer">Flag API: Demo</a><br>
+
+<a href="https://patl.ink/flag-api" target="_blank" rel="noopener noreferrer">Flag API: Source Code</a><br>
+
+<a href="https://patl.ink" target="_blank" rel="noopener noreferrer">Url Shortener: Demo</a><br>
+
+<a href="https://patl.ink/repo" target="_blank" rel="noopener noreferrer">Url Shortener: Source Code</a><br>
