@@ -24,6 +24,7 @@ abstract class PatrykNamyslak{
             "MySQL"
             ],
         ];
+    // Clickable links can be found at the end of the README
     public static array $projects = [
         "Resume Builder" => "https://patl.ink/resume-builder", # TBA
         "Form Builder" => "https://patl.ink/form-builder",
