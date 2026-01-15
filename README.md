@@ -60,7 +60,7 @@ worker@patryknamyslak.pl~$ php Patryk.class.php
 [Authentication Facade](https://patl.ink/php-auth) <br>
 [Frontend Foundry](https://patl.ink/frontend-foundry) <br>
 [Database Communication Interface](https://patl.ink/patbase) <br>
-[Flag API: Demo](https://patl.ink/flag-api) <br>
-[Flag API: Source Code](https://patl.ink/flag-api-demo) <br>
+[Flag API: Demo](https://patl.ink/flag-api-demo) <br>
+[Flag API: Source Code](https://patl.ink/flag-api) <br>
 [Url Shortener: Demo](https://patl.ink) <br>
 [Url Shortener: Source Code](https://patl.ink/repo) <br>
