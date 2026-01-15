@@ -54,12 +54,12 @@ worker@patryknamyslak.pl~$ php Patryk.class.php
 ```
 
 # Projects (With Clickable links)
-https://patl.ink/resume-builder <br>
-https://patl.ink/form-builder <br>
-https://patl.ink/php-auth <br>
-https://patl.ink/frontend-foundry <br>
-https://patl.ink/patbase <br>
-https://patl.ink/flag-api <br>
-https://patl.ink/flag-api-demo <br>
-https://patl.ink/repo <br>
-https://patl.ink <br>
+[Boom](https://patl.ink/resume-builder) <br>
+[Boom](https://patl.ink/form-builder) <br>
+[Boom](https://patl.ink/php-auth) <br>
+[Boom](https://patl.ink/frontend-foundry) <br>
+[Boom](https://patl.ink/patbase) <br>
+[Boom](https://patl.ink/flag-api) <br>
+[Boom](https://patl.ink/flag-api-demo) <br>
+[Boom](https://patl.ink/repo) <br>
+[Boom](https://patl.ink) <br>
