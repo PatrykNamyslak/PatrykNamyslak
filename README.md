@@ -25,15 +25,19 @@ abstract class PatrykNamyslak{
             ],
         ];
     public static array $projects = [
-        "Resume Builder" => "https://patl.ink/php-auth",
-        "Form Builder" => "https://patl.ink/php-form-builder",
+        "Resume Builder" => "https://patl.ink/resume-builder", # TBA
+        "Form Builder" => "https://patl.ink/form-builder",
+        "Authentication Facade" => "https://patl.ink/php-auth"
         "Frontend Foundry" => "https://patl.ink/frontend-foundry",
-        "Flag API" => [
-            "https://patl.ink/flag-api",
-            "https://patl.ink/flag-api-demo"
-            ],
-        "Url Shortener" => "https://patl.ink/repo", 
         "Database Communication Interface" => "https://patl.ink/patbase",
+        "Flag API" => [
+            "Source Code" => "https://patl.ink/flag-api",
+            "Demo" => "https://patl.ink/flag-api-demo"
+            ],
+        "Url Shortener" => [
+            "Source Code" => "https://patl.ink/repo",
+            "Demo" => "https://patl.ink",
+            ], 
         ];
 
     public static function greeting(){
