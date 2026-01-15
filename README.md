@@ -5,9 +5,10 @@ abstract class PatrykNamyslak{
     public static string $role = "Full-stack Web Developer";
     public static array $stack = [
         "Frontend" => ["Laravel", "Blade", "TailwindCSS", "Livewire", "Vite", "HTML", "CSS", "HTMX"],
-        "Backend" => ["Linux", "Apache", "MySQL", "PHP"],
+        "Backend" => ["PHP"],
+        "Server" => ["Linux", "Apache", "MySQL", "Redis"],
         ];
-    public static array $projects = ["Frontend Foundry", "Flag API", "Url Shortener", "File hosting Service", "Image sharing Service"];
+    public static array $projects = ["Resume Builder", "Form Builder", "Frontend Foundry", "Flag API", "Url Shortener"];
 
     public static function greeting(){
         echo "Hi there! My name is " . self::$name . " and I am a " . self::$role;
@@ -23,8 +24,3 @@ worker@patryknamyslak.pl~$ php Patryk.class.php
 ```
 # Projects
 <a href="https://frontendfoundry.dev">Frontend Foundry</a>
-
-<a href="https://patgur.space">Image hosting service - Imagur Clone</a>
-
-<a href="https://patb.in">File hosting service - Filebin Clone</a>
-
