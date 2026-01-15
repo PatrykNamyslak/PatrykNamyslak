@@ -52,3 +52,14 @@ PatrykNamyslak::greeting();
 worker@patryknamyslak.pl~$ php Patryk.class.php
 > Hi there! My name is Patryk Namyslak and I am a Full-stack Web Developer
 ```
+
+# Projects (With Clickable links)
+https://patl.ink/resume-builder
+https://patl.ink/form-builder
+https://patl.ink/php-auth
+https://patl.ink/frontend-foundry
+https://patl.ink/patbase
+https://patl.ink/flag-api
+https://patl.ink/flag-api-demo
+https://patl.ink/repo
+https://patl.ink
