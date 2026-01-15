@@ -5,32 +5,35 @@ abstract class PatrykNamyslak{
     public static string $role = "PHP Web Developer";
     public static array $stack = [
         "Frontend" => [
-            "Blade", 
-            "TailwindCSS", 
-            "Livewire", 
-            "Vite", 
-            "HTML", 
-            "CSS", 
+            "Blade",
+            "TailwindCSS",
+            "Livewire",
+            "Vite",
+            "HTML",
+            "CSS",
             "HTMX"
             ],
         "Backend" => [
-            "PHP", 
-            "Laravel", 
+            "PHP",
+            "Laravel",
             "Redis"
             ],
         "Server" => [
-            "Linux", 
-            "Apache", 
+            "Linux",
+            "Apache",
             "MySQL"
             ],
         ];
     public static array $projects = [
-        "Resume Builder", 
-        "Form Builder", 
-        "Frontend Foundry", 
-        "Flag API", 
-        "Url Shortener", 
-        "Database Communication Interface"
+        "Resume Builder" => "https://patl.ink/php-auth",
+        "Form Builder" => "https://patl.ink/php-form-builder",
+        "Frontend Foundry" => "https://patl.ink/frontend-foundry",
+        "Flag API" => [
+            "https://patl.ink/flag-api",
+            "https://api.frontendfoundry.dev/v1/flags/"
+            ],
+        "Url Shortener" => "https://patl.ink/repo", 
+        "Database Communication Interface" => "https://patl.ink/patbase",
         ];
 
     public static function greeting(){
@@ -45,5 +48,3 @@ PatrykNamyslak::greeting();
 worker@patryknamyslak.pl~$ php Patryk.class.php
 > Hi there! My name is Patryk Namyslak and I am a Full-stack Web Developer
 ```
-# Projects
-<a href="https://frontendfoundry.dev">Frontend Foundry</a>
