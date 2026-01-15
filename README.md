@@ -1,5 +1,5 @@
 ```PHP
-
+// TODO: MAKE THE LINKS CLICKABLE
 abstract class PatrykNamyslak{
     public static string $name = "Patryk Namyslak";
     public static string $role = "PHP Web Developer";
@@ -25,7 +25,7 @@ abstract class PatrykNamyslak{
             ],
         ];
     public static array $projects = [
-        "Resume Builder" => "https://patl.ink/resume-builder", # TBA
+        "Resume Builder" => "[https://patl.ink/resume-builder](https://patl.ink/resume-builder)", # TBA
         "Form Builder" => "https://patl.ink/form-builder",
         "Authentication Facade" => "https://patl.ink/php-auth",
         "Frontend Foundry" => "https://patl.ink/frontend-foundry",
