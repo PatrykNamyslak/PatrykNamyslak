@@ -30,7 +30,7 @@ abstract class PatrykNamyslak{
         "Frontend Foundry" => "https://patl.ink/frontend-foundry",
         "Flag API" => [
             "https://patl.ink/flag-api",
-            "https://api.frontendfoundry.dev/v1/flags/"
+            "https://patl.ink/flag-api-demo"
             ],
         "Url Shortener" => "https://patl.ink/repo", 
         "Database Communication Interface" => "https://patl.ink/patbase",
